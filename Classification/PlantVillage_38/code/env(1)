@@ -1,0 +1,4 @@
+RAW_DATA_PATH=/content/drive/MyDrive/PlantVillage_Project/data/raw
+PROCESSED_DATA=/content/data/processed
+IMG_SIZE=224
+BATCH_SIZE=32
