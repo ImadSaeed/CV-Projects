@@ -250,6 +250,19 @@ PlantVillage/
 
 ---
 
+## 📦 Complete Project
+
+The full project (including trained models and datasets) is available on Google Drive:
+
+[Download Complete PlantVillage Project](https://drive.google.com/your-drive-link)
+
+**Contents:**
+- All trained models (.h5, .pkl, .keras)
+- Extracted features (.npz)
+- Class weights
+- Complete dataset structure
+- ---
+
 ## 📈 Visualizations
 
 ### Training Curves (Tiny NN)
