@@ -254,7 +254,7 @@ PlantVillage/
 
 The full project (including trained models and datasets) is available on Google Drive:
 
-[Download Complete PlantVillage Project](https://drive.google.com/your-drive-link)
+[Download Complete PlantVillage Project](https://drive.google.com/drive/folders/1YuNlmLOUutPPfoiP-Kb5GRFTy8ZayDr0?usp=sharing)
 
 **Contents:**
 - All trained models (.h5, .pkl, .keras)
