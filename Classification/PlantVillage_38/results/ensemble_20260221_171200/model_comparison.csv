@@ -1,0 +1,6 @@
+Model,Accuracy,Macro F1,Notes
+Phase 1 Frozen Head,0.5671,0.189,Majority bias
+Fine-Tuned,0.1419,0.0,Failed
+Tiny NN,0.9882,0.985,Best single
+LightGBM,0.9638,0.948,Fast
+Ensemble,0.9976797716600682,0.9969881864090085,Final
