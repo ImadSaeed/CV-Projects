@@ -1,0 +1,89 @@
+# ============================================
+# PLANTVILLAGE PROJECT - FINAL .gitignore
+# 99.77% Ensemble Model
+# ============================================
+
+# -------------------- ENVIRONMENT FILES --------------------
+.env
+env(1)
+.env.*
+*.env
+
+# -------------------- PYTHON CACHE --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# -------------------- VIRTUAL ENVIRONMENTS --------------------
+venv/
+.venv/
+env/
+ENV/
+myenv/
+
+# -------------------- ZIP FILES --------------------
+*.zip
+**/*.zip
+code/scripts/*.zip
+
+# -------------------- DATA (Too Large for GitHub) --------------------
+data/raw/
+data/raw/**/*
+data/processed/*.npz
+data/processed/*.npy
+
+# EXCEPTION: Keep this small file
+!data/processed/class_weights.npy
+
+# -------------------- MODELS (Binary Weights - Too Large) --------------------
+models/**/*.h5
+models/**/*.keras
+models/**/*.pkl
+models/**/*.pb
+models/**/*.onnx
+
+# -------------------- RESULTS (Keep Summaries, Hide Raw Data) --------------------
+# KEEP these (portfolio gold):
+!evaluation/**/*.png
+!evaluation/**/*.txt
+!evaluation/**/*.json
+!evaluation/**/*.csv
+!results/**/*.png
+!results/**/model_comparison.csv
+!results/**/classification_report.csv
+!results/**/classification_report.txt
+
+# HIDE these (large binary files):
+results/**/*.npy
+results/**/ensemble_predictions.csv
+results/**/ensemble_probs.npy
+
+# -------------------- LOGS & TEMP FILES --------------------
+logs/
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# -------------------- IDE FILES --------------------
+.vscode/
+.idea/
+*.sublime-*
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# -------------------- JUPYTER --------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+# -------------------- ADD THESE TWO LINES --------------------
+.obsidian/ 
+# Obsidian workspace files (add these)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
