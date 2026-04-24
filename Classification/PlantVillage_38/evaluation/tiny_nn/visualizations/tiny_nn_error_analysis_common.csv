@@ -1,0 +1,38 @@
+True Class,Predicted Class,True Class Name,Predicted Class Name,True Probability,Predicted Probability
+33,34,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,0.49620378,0.50297636
+33,32,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Septoria_leaf_spot,0.40233722,0.5855971
+33,34,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,0.01546506,0.98452216
+33,32,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Septoria_leaf_spot,0.105041355,0.89302266
+33,34,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,0.008102076,0.98564523
+33,32,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Septoria_leaf_spot,0.04561112,0.93991566
+33,34,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,0.1318608,0.8585416
+33,34,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,0.15365522,0.82272655
+33,34,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,0.3010092,0.69875497
+33,35,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.23607497,0.67120403
+33,34,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,0.009487538,0.99020886
+33,31,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Leaf_Mold,0.18187283,0.77220464
+33,34,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,0.049482003,0.9504414
+33,34,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,0.00026641673,0.9273066
+33,32,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Septoria_leaf_spot,0.14429836,0.64722234
+34,32,Tomato___Target_Spot,Tomato___Septoria_leaf_spot,0.20989843,0.476392
+34,33,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,0.4466873,0.51432717
+34,29,Tomato___Target_Spot,Tomato___Early_blight,0.15596905,0.84209037
+34,33,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,0.24687444,0.70067364
+34,33,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,0.0016404253,0.9983173
+34,33,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,0.39496142,0.6050132
+34,33,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,0.16894041,0.8310544
+34,37,Tomato___Target_Spot,Tomato___healthy,0.032899406,0.96648645
+34,32,Tomato___Target_Spot,Tomato___Septoria_leaf_spot,0.00019531092,0.999743
+34,33,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,0.21844836,0.5930662
+34,33,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,0.004606735,0.99526453
+34,37,Tomato___Target_Spot,Tomato___healthy,0.039805446,0.96016425
+34,32,Tomato___Target_Spot,Tomato___Septoria_leaf_spot,0.047524545,0.9484834
+34,32,Tomato___Target_Spot,Tomato___Septoria_leaf_spot,0.112463765,0.75779486
+35,30,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Late_blight,0.2994224,0.62513816
+35,28,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Bacterial_spot,0.12232655,0.8756557
+35,36,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Tomato_mosaic_virus,0.17884223,0.8207277
+35,37,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___healthy,0.27166575,0.34057105
+35,33,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Spider_mites Two-spotted_spider_mite,0.32070464,0.67794377
+37,34,Tomato___healthy,Tomato___Target_Spot,0.26776385,0.7321642
+37,34,Tomato___healthy,Tomato___Target_Spot,0.058857456,0.9410729
+37,34,Tomato___healthy,Tomato___Target_Spot,0.0086309435,0.9898493
