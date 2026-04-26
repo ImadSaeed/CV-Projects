@@ -6,10 +6,9 @@
 [![License: MIT|82](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 
 > **99.77% Accuracy** on Plant Disease Classification using an Ensemble of Tiny Neural Network and LightGBM.
- [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fcmlkyewd48qrgazxzqqky.streamlit.app/).
- **NOTE:** The Streamlit accessible via the badge here uses a single "Tiny NN" model for simplicity in my first Deployment.
 **A production-ready AI system for agricultural disease detection across 38 plant disease classes.**
-
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fcmlkyewd48qrgazxzqqky.streamlit.app/).
+ **NOTE:** The Streamlit accessible via the badge here uses a single "Tiny NN" model for simplicity in my first Deployment.
 ---
 
 ## 🎯 Results at a Glance
