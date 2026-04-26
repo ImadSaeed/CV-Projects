@@ -6,7 +6,7 @@
 [![License: MIT|82](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 
 > **99.77% Accuracy** on Plant Disease Classification using an Ensemble of Tiny Neural Network and LightGBM.
-
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://plantvillage-app.streamlit.app)
 **A production-ready AI system for agricultural disease detection across 38 plant disease classes.**
 
 ---
