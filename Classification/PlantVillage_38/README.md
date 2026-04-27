@@ -8,7 +8,7 @@
 > **99.77% Accuracy** on Plant Disease Classification using an Ensemble of Tiny Neural Network and LightGBM.
 **A production-ready AI system for agricultural disease detection across 38 plant disease classes.**
 
-> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nzzuuuhpyzpaiybgyqvtbg.streamlit.app).
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nzzuuuhpyzpaiybgyqvtbg.streamlit.app/).
  **NOTE:** The Streamlit accessible via the badge here uses a single "Tiny NN" model for simplicity in my first Deployment.
 ---
 
